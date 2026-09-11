@@ -12,14 +12,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-### About
-
-기업 IT 시스템을 운영하고 개발하며,  
-백엔드와 플랫폼 영역의 문제를 해결하는 데 관심이 있습니다.
-
-주로 **.NET / ASP.NET Core / Entity Framework Core**와  
-**Spring Boot / React / TypeScript**를 사용합니다.
-
-오픈소스 프로젝트에도 꾸준히 기여하고 있습니다.
-
-Currently interested in **backend architecture, concurrency, performance, and developer tooling.**
+<p align="center">
+  Building and operating enterprise IT systems.<br/>
+  Interested in backend architecture, concurrency, performance, and developer tooling.
+</p>
