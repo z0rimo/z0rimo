@@ -1,16 +1,25 @@
-## Hi there 👋
+<h2 align="center">S.H. Jeong</h2>
 
-<!--
-**z0rimo/z0rimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Backend Developer · Enterprise Systems · Open Source
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+기업 IT 시스템을 운영하고 개발하며,  
+백엔드와 플랫폼 영역의 문제를 해결하는 데 관심이 있습니다.
+
+주로 **.NET / ASP.NET Core / Entity Framework Core**와  
+**Spring Boot / React / TypeScript**를 사용합니다.
+
+오픈소스 프로젝트에도 꾸준히 기여하고 있습니다.
+
+Currently interested in **backend architecture, concurrency, performance, and developer tooling.**
